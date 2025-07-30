@@ -8,6 +8,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.contrib.middlewares.i18n import I18nMiddleware
 from aiogram.dispatcher import FSMContext
+from dotenv import load_dotenv
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.types import (InlineKeyboardButton, InlineKeyboardMarkup,
                            ReplyKeyboardRemove)
