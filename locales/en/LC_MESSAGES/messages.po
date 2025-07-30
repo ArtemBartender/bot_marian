@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "welcome_message"
+msgstr "👋 Hello! I'm Smoky, your AI hookah catering consultant.\n\nTell me what you'd like, and I'll help you place an order. For example: 'I want 2 hookahs for a birthday party on Saturday'.\n\nTo cancel and start over, type /start."
+
+msgid "thinking_message"
+msgstr "🤔 Smoky is thinking..."
+
+msgid "error_message"
+msgstr "⚠️ An error occurred. Please try again."
+
+msgid "summary_title"
+msgstr "Please check your order:"
+
+msgid "summary_when"
+msgstr "When"
+
+msgid "summary_duration"
+msgstr "Duration"
+
+msgid "summary_hookahs"
+msgstr "Hookahs"
+
+msgid "summary_masters"
+msgstr "Masters"
+
+msgid "summary_where"
+msgstr "Where"
+
+msgid "summary_phone"
+msgstr "Phone"
+
+msgid "summary_client"
+msgstr "Client"
+
+msgid "button_confirm"
+msgstr "Confirm"
+
+msgid "button_edit"
+msgstr "Edit"
+
+msgid "confirmation_thanks_message"
+msgstr "✅ **Thank you!** Your order has been received. We will contact you shortly.\n\nTo place a new order, type /start."
+
+msgid "edit_callback_answer"
+msgstr "Returning to the conversation..."
+
+msgid "edit_prompt_message"
+msgstr "Okay, let's fix it. What exactly do you want to change in the order?"
+
+msgid "timeout_error_message"
+msgstr "⏳ The AI assistant is taking too long to respond. Please repeat your request in a moment."

@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "welcome_message"
+msgstr "👋 Cześć! Jestem Smoky, Twój konsultant AI ds. cateringu shishy.\n\nPowiedz mi, czego potrzebujesz, a pomogę Ci złożyć zamówienie. Na przykład: 'Chcę 2 shishe na urodziny w sobotę'.\n\nAby anulować i zacząć od nowa, wpisz /start."
+
+msgid "thinking_message"
+msgstr "🤔 Smoky myśli..."
+
+msgid "error_message"
+msgstr "⚠️ Wystąpił błąd. Proszę spróbować ponownie."
+
+msgid "summary_title"
+msgstr "Proszę sprawdzić swoje zamówienie:"
+
+msgid "summary_when"
+msgstr "Kiedy"
+
+msgid "summary_duration"
+msgstr "Czas trwania"
+
+msgid "summary_hookahs"
+msgstr "Shishe"
+
+msgid "summary_masters"
+msgstr "Mistrzowie"
+
+msgid "summary_where"
+msgstr "Gdzie"
+
+msgid "summary_phone"
+msgstr "Telefon"
+
+msgid "summary_client"
+msgstr "Klient"
+
+msgid "button_confirm"
+msgstr "Potwierdź"
+
+msgid "button_edit"
+msgstr "Edytuj"
+
+msgid "confirmation_thanks_message"
+msgstr "✅ **Dziękujemy!** Twoje zamówienie zostało przyjęte. Wkrótce się z Tobą skontaktujemy.\n\nAby złożyć nowe zamówienie, wpisz /start."
+
+msgid "edit_callback_answer"
+msgstr "Powrót do rozmowy..."
+
+msgid "edit_prompt_message"
+msgstr "Dobrze, poprawmy to. Co dokładnie chcesz zmienić w zamówieniu?"
+
+msgid "timeout_error_message"
+msgstr "⏳ Asystent AI odpowiada zbyt długo. Proszę powtórzyć swoje zapytanie za chwilę."
